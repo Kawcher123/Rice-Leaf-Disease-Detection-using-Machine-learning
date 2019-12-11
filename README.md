@@ -10,7 +10,7 @@ including that of KNN(K-Nearest Neighbour), J48(Decision Tree), Naive Bayes and 
 after 10-fold cross validation, achieved an accuracy of over 97% when applied on the test dataset.
 
 
-![Screenshot](Pics/Rice Plant Disease.jpeg)
+![Screenshot](Pics/rice.png)
 Technologies used:
   - Weka
   - Python
@@ -19,10 +19,12 @@ Technologies used:
   - Sklearn
 
 The comparison between the accuracy of the four classification algorithms are represented in the Figure.
-<img src="Pics/accuracy2.png" alt="drawing" width="200"/>
+<img src="Pics/accuracy2.png" alt="drawing" width="600"/>
  
 A comparison between four machine learning algorithms (including that of KNN, Decision tree, Logistic regression and Naive Bayes) in the realms of rice leaf disease detection has been made. The algorithms predicted the rice leaf diseases with varying degrees of accuracy. It was found that decision tree performed the best with 97.9167% accuracy on test data. Having thus identified a near-optimal algorithm, we hope to extend this study further as higher quality datasets become available in the future.
 For our future work, we plan to explore the effectiveness of deep learning and transfer learning methods on this dataset.
+
+
 License
 ----
 
