@@ -11,6 +11,7 @@ after 10-fold cross validation, achieved an accuracy of over 97% when applied on
 
 
 ![Screenshot](Pics/rice.png)
+
 Technologies used:
   - Weka
   - Python
